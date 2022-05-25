@@ -1,21 +1,37 @@
 # 20220515_komakinexVJ-Class
-このリポジトリは、TDSWワークショップのサンプルファイルです
-https://tdsw20220515.peatix.com/
-
-資料はTouchDesigner_Vol.057_komakinexs_vjing_class.pdfです。
-
-## ファイルの説明
-### toe/class_sample.toe
-ワークショップで作るファイルの完成形です。
-
-### toe/komakinexVJ.toe
-komakinexがMUTEK.JP 2021で使用したVJシステムを簡略化したものです。
-
-### sound/part04.mp3
-Masayuki AzegamiのアルバムAtmospheric Entryに収録されているEncounterという曲です
-https://masayuki-azegami.bandcamp.com/album/atmospheric-entry
-
+TDSWワークショップのサンプルファイル<br>
+Here are sample files from this TDSW workshop. <br>
+https://tdsw20220515.peatix.com/<br>
+<br>
+資料は`TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`です。<br>
+Workshop documents are in `TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`<br>
+<br>
+ワークショップのアーカイブはこちらから<br>
+You can see the archive of this workshop here.<br>
+https://twitter.com/tdsw_info/status/1528260452572368896<br>
+<br>
 ***
+<br>
 
-質問があるときはTwitterのDMでお願いします。
-https://twitter.com/komakinex
+## ファイルの説明 
+### toe/class_sample.toe
+ワークショップで作るファイルの完成形です。<br>
+This is a complete file to be made in this workshop.<br>
+### toe/komakinexVJ.toe
+komakinexがMUTEK.JP 2021で使用したVJシステムを簡略化したものです。<br>
+This is a simplified version of the VJ system used by komakinex for MUTEK.JP 2021.<br>
+<img src="render/komakinexVJsystem.gif" width="400">
+### sound/part04.mp3
+Masayuki AzegamiのアルバムAtmospheric Entryに収録されているEncounterという曲です<br>
+https://masayuki-azegami.bandcamp.com/album/atmospheric-entry<br>
+<br>
+***
+<br>
+質問があるときはDMなどで！<br>
+Let me know if you have any questions.<br>
+<br>
+komakinex<br>
+
+Twitter: https://twitter.com/komakinex<br>
+Instagram: https://www.instagram.com/komakinex/<br>
+YouTube: https://www.youtube.com/channel/UCSYJcxgq-TPtEKFoUu5xsXA
