@@ -10,6 +10,11 @@ Workshop documents are in `TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`<br>
 You can see the archive of this workshop here.<br>
 https://twitter.com/tdsw_info/status/1528260452572368896<br>
 <br>
+## 2022.7.5追記
+2022.25370バージョンでエラーが起きていた、各toeファイルのCamerasの中にある`CAM_TO_MAT`を修正しました。<br>
+Added on July 5, 2022<br>
+Fixed `CAM_TO_MAT` in Cameras of each toe file, which was causing an error in 2022.25370 version.<br>
+
 ***
 <br>
 
@@ -23,6 +28,7 @@ This is a simplified version of the VJ system used by komakinex for MUTEK.JP 202
 <img src="render/komakinexVJsystem.gif" width="400">
 ### sound/part04.mp3
 Masayuki AzegamiのアルバムAtmospheric Entryに収録されているEncounterという曲です<br>
+This is the song "Encounter" from Masayuki Azegami's album "Atmospheric Entry".<br>
 https://masayuki-azegami.bandcamp.com/album/atmospheric-entry<br>
 <br>
 ***
