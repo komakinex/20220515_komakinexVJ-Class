@@ -4,7 +4,7 @@ Here are sample files from this TDSW workshop. <br>
 https://tdsw20220515.peatix.com/<br>
 <br>
 資料は`TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`です。<br>
-Workshop documents are in `TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`<br>
+Workshop documents are in `TouchDesigner_Vol.057_komakinexs_vjing_class.pdf` (Japanese)<br>
 <br>
 ワークショップのアーカイブはこちらから<br>
 You can see the archive of this workshop here.<br>
@@ -40,4 +40,4 @@ komakinex<br>
 
 Twitter: https://twitter.com/komakinex<br>
 Instagram: https://www.instagram.com/komakinex/<br>
-YouTube: https://www.youtube.com/channel/UCSYJcxgq-TPtEKFoUu5xsXA
+YouTube: https://www.youtube.com/@komakinex
