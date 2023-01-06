@@ -8,7 +8,7 @@ Workshop documents are in `TouchDesigner_Vol.057_komakinexs_vjing_class.pdf`<br>
 <br>
 ワークショップのアーカイブはこちらから<br>
 You can see the archive of this workshop here.<br>
-https://twitter.com/tdsw_info/status/1528260452572368896<br>
+https://youtube.com/playlist?list=PLBBXvPY2hFT3oXhoCzyG-N33tBV8tF__H<br>
 <br>
 ## 2022.7.5追記
 2022.25370バージョンでエラーが起きていた、各toeファイルのCamerasの中にある`CAM_TO_MAT`を修正しました。<br>
